@@ -26,10 +26,4 @@
 **Communication**  
 
 ### GitHub Statistics
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="200" alt="zenqst's stats" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zenqst&hide_border=true&hide_progress=false&card_width=430&theme=dark&layout=compact" />
-</a>
-<br/>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"> 
-  <img height="200" alt="zenqst's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=zenqst&theme=dark&hide_border=true&short_numbers=false&card_width=430"/> 
-</a>
+
