@@ -21,8 +21,7 @@
  [![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
 
 **Design & 3D**  
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/) [![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://www.blender.org/)
-
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 **Communication**  
 
 ### GitHub Statistics
