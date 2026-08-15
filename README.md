@@ -22,6 +22,8 @@
 
 **Design & 3D**  
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
+
+
 **Communication**  
 
 ### GitHub Statistics
